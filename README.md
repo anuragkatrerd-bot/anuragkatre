@@ -9,7 +9,7 @@
     <a href="https://github.com/anuragkatrerd-bot">
       <img src="https://img.shields.io/github/followers/anuragkatrerd-bot?label=Follow&style=for-the-badge&color=212121&labelColor=212121" alt="GitHub followers">
     </a>
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <a href="https://www.linkedin.com/in/anurag-katre-0ab9b5239?utm_source=share_via&utm_content=profile&utm_medium=member_ios">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
   </p>
@@ -88,8 +88,8 @@ I design and build AI-powered systems, data pipelines, and automation tools that
 ### 📫 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:anuragkatrerd@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/anurag-katre-0ab9b5239?utm_source=share_via&utm_content=profile&utm_medium=member_ios"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:anuragkatre36@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
 <div align="center">
